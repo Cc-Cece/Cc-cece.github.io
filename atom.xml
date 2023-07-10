@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://cc-cece.netlify.app/</id>
+    <title>Cc-cece</title>
+    <updated>2023-07-10T06:35:19.878Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://cc-cece.netlify.app/"/>
+    <link rel="self" href="https://cc-cece.netlify.app/atom.xml"/>
+    <subtitle>其作始也必简，其将毕也必巨。</subtitle>
+    <logo>https://cc-cece.netlify.app/images/avatar.png</logo>
+    <icon>https://cc-cece.netlify.app/favicon.ico</icon>
+    <rights>All rights reserved 2023, Cc-cece</rights>
+    <entry>
+        <title type="html"><![CDATA[我&%*#的香港一日游]]></title>
+        <id>https://cc-cece.netlify.app/post/wo-andde-xiang-gang-yi-ri-you/</id>
+        <link href="https://cc-cece.netlify.app/post/wo-andde-xiang-gang-yi-ri-you/">
+        </link>
+        <updated>2023-07-10T05:58:10.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Camera谷歌相机集合站]]></title>
+        <id>https://cc-cece.netlify.app/post/google-camera-gu-ge-xiang-ji-ji-he-zhan/</id>
+        <link href="https://cc-cece.netlify.app/post/google-camera-gu-ge-xiang-ji-ji-he-zhan/">
+        </link>
+        <updated>2023-06-30T05:42:43.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LMC8.4Mod Google Camera Skills]]></title>
+        <id>https://cc-cece.netlify.app/post/lmc84mod-google-camera-skills/</id>
+        <link href="https://cc-cece.netlify.app/post/lmc84mod-google-camera-skills/">
+        </link>
+        <updated>2023-06-28T06:10:32.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2023 618笔记本推荐]]></title>
+        <id>https://cc-cece.netlify.app/post/618-bi-ji-ben-tui-jian/</id>
+        <link href="https://cc-cece.netlify.app/post/618-bi-ji-ben-tui-jian/">
+        </link>
+        <updated>2023-06-09T06:05:48.000Z</updated>
+    </entry>
+</feed>
